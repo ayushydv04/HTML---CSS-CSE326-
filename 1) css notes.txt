@@ -1,0 +1,11 @@
+CSS stands for cascading style sheets
+
+what is the purpose of css
+css is the laguage we use to style our webpage
+
+three types in which we can implement in css are
+1. inline css :- inline css is used to apply a unique style for a single element(tag) to use inline styles add the style attribute to the relevant element inside the style attribute any css property can be there. Inline css has the highest priority.
+
+2. internal css:- an internal style sheet may be used if one html sheet has unique style. The internal style is defined inside the style element inside the head element.
+
+3. external css:- with an external style sheet you can change the look of an entire website by making changes in one file only. to make a external css sheet use .css extension and to link this page to html sheet we link this style sheet in head of html sheet with link tag. each html page must include a reference to the external style sheet inside the link element and inside head section and external style sheet must be saved by  .css extension.

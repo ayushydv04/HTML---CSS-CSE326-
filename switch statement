@@ -1,0 +1,1 @@
+the purpose of switch statement is to give an expression to evalute and several different statements to be executed on the basis of the value of the exprssion the interpreter checks each case against the value of the expression until a match is found, if nothing matches then whatever statement is written inside thr default block is executed.

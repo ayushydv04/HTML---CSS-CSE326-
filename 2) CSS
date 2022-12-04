@@ -1,0 +1,7 @@
+CSS:- cascading style sheets
+
+there are three types of CSS
+i) inline CSS - when we write style in attribute only.
+ii) internal CSS - when we write css after title tag by making a style tag
+iii) external css - we make a file with .css extension.
+
